@@ -1,0 +1,46 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans,sans-serif';
+}
+
+html,body,#root{
+  height: 100%;
+  background-color: #efefef;
+}
+
+
+ul{
+  display: flex;
+  list-style: none;
+  
+ 
+}
+a:hover{
+  color:#ffbb33
+}
+a{
+  text-decoration: none;
+ padding: 0 1em;
+  color:#fff;
+
+}
+span{
+  font-weight: bold;
+  color:#ffbb33;
+  background-color: darkslategray;
+  padding: 0 .2em;
+}
+
+section >h1{
+  margin-bottom: 1em;
+  font-size: 2.5em;
+}
+section > p{
+  margin-bottom: 1em;
+}
+
+
+
+

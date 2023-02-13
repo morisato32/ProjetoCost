@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    align-items: center;
+   justify-items: center;
+   justify-content: space-evenly;
+    background-color:darkslategray;
+   padding: 1em;
+    margin-top: 1em;
+}
+
+.navbar_img{
+    width: 50px;
+    border-radius: 50%;
+}
