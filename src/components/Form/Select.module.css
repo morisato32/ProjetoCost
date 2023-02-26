@@ -1,0 +1,17 @@
+.Form_select{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.Form_select label{
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+
+.Form_select select{
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+}
+

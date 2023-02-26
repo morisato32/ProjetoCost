@@ -1,4 +1,4 @@
-import { Routes, BrowserRouter, Route, Link } from "react-router-dom";
+import { Routes, BrowserRouter, Route } from "react-router-dom";
 
 import Home from "./components/pages/Home";
 import Projetos from "./components/pages/Projetos";
@@ -6,8 +6,8 @@ import Contato from "./components/pages/Contato";
 import Empresa from "./components/pages/Empresa";
 import NovoProjeto from "./components/pages/NovoProjeto";
 
-import Footer from "./components/pages/Footer";
-import NavBar from "./components/pages/Navbar";
+import Footer from "./components/pages/layout/Footer";
+import NavBar from "./components/pages/layout/Navbar";
 
 function App() {
   return (

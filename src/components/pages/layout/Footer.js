@@ -1,5 +1,5 @@
 import {FaFacebook,FaInstagram,FaLinkedin} from 'react-icons/fa'
-import style from '../pages/Footer.module.css'
+import style from '../layout/Footer.module.css'
 function Footer(){
     return(
         <footer className={style.footer}>
